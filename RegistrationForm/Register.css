@@ -1,0 +1,8 @@
+.form-input {
+  font-size: 1.5rem;}
+.form-input:focus {
+    outline: none;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+     }
+  .form-input:focus:invalid {
+    border-bottom: 3px solid red; }
